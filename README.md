@@ -2,7 +2,7 @@
 基于pytorch实现的、带GUI的图像风格迁移程序.
 
 效果如下：
-![程序界面](img/gui.jpg)
+![程序界面](img/gui.gif)
 # Requirements
 
 * Numpy
